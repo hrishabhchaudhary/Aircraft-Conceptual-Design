@@ -1,0 +1,3 @@
+Takeoff
+Climb
+Descend

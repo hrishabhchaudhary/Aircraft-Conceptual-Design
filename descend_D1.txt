@@ -1,0 +1,1 @@
+Weight fraction for climb: 0.997
